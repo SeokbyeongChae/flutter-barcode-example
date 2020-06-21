@@ -1,6 +1,6 @@
 # flutter-barcode-example
 
 # Screen Shot
-<img src="https://user-images.githubusercontent.com/54769301/85219422-885b0700-b3de-11ea-82e8-88513ec41d4e.jpg" style="max-width: 5%">
-![Screenshot_20200620-184056](https://user-images.githubusercontent.com/54769301/85219423-898c3400-b3de-11ea-9f69-9a2b2e64f7d3.jpg){: width="100%" height="100%"}
-![Screenshot_20200620-184101](https://user-images.githubusercontent.com/54769301/85219425-8a24ca80-b3de-11ea-9b92-fa574db0a1cc.jpg){: width="100%" height="100%"}
+![Screenshot_20200620-184048 - 복사본](https://user-images.githubusercontent.com/54769301/85222937-c1ed3b80-b3f9-11ea-8cc2-5a57d7eea41f.jpg)
+![Screenshot_20200620-184056 - 복사본](https://user-images.githubusercontent.com/54769301/85222942-c3b6ff00-b3f9-11ea-8104-48e07dc4b573.jpg)
+![Screenshot_20200620-184101 - 복사본](https://user-images.githubusercontent.com/54769301/85222941-c31e6880-b3f9-11ea-9066-df11f946b3b3.jpg)
